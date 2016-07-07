@@ -1,0 +1,11 @@
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\NetKits.Log.Test.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\NetKits.Log.Test.pdb
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\obj\Debug\NetKits.Log.Test.csprojResolveAssemblyReference.cache
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\obj\Debug\NetKits.Log.Test.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\obj\Debug\NetKits.Log.Test.pdb
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\NetKits.Log.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\log4net.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\NetKits.Log.pdb
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\NetKits.Log.xml
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\log4net.xml
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log.Test\bin\Debug\log4netTest.config

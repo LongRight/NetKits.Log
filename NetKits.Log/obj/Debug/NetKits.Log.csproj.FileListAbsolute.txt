@@ -1,0 +1,8 @@
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\bin\Debug\NetKits.Log.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\bin\Debug\NetKits.Log.pdb
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\obj\Debug\NetKits.Log.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\obj\Debug\NetKits.Log.pdb
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\bin\Debug\log4net.dll
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\bin\Debug\log4net.xml
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\bin\Debug\NetKits.Log.XML
+E:\MyProject\NetClassLibrary\NetKits.Log\03.解决方案\NetKits.Log\NetKits.Log\obj\Debug\NetKits.Log.csprojResolveAssemblyReference.cache
